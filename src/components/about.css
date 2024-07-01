@@ -1,0 +1,19 @@
+.total{
+  display: flex;
+  flex-wrap: wrap;
+}
+.one{
+  position: relative;
+  width: 40%;
+}
+h1{
+  text-align: center;
+}
+.one p{
+  position: relative;
+  width: 70%;
+  left: 20%;
+  padding:30px;
+  font-size: 20px;
+  text-align: justify;
+}
